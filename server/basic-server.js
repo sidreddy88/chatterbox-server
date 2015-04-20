@@ -1,3 +1,11 @@
+/*
+
+Need to start at about 42 minute of the lecture - Remaining steps - need to figure out how 
+to refractor code into util.js
+
+
+*/
+
 /* Import node's http module: */
 var http = require("http");
 var handleRequest = require('./request-handler.js');
